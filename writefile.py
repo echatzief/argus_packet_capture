@@ -2,5 +2,5 @@ import os
 
 
 while True:
-  os.system("argus -w packet.argus")
+  os.system("argus -w -")
 
